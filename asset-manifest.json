@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/crowddit411.web.illinois.edu%20/static/css/main.df1bad64.chunk.css",
-    "main.js": "/crowddit411.web.illinois.edu%20/static/js/main.2d06d397.chunk.js",
-    "main.js.map": "/crowddit411.web.illinois.edu%20/static/js/main.2d06d397.chunk.js.map",
-    "runtime-main.js": "/crowddit411.web.illinois.edu%20/static/js/runtime-main.4cf943c5.js",
-    "runtime-main.js.map": "/crowddit411.web.illinois.edu%20/static/js/runtime-main.4cf943c5.js.map",
-    "static/css/2.de424728.chunk.css": "/crowddit411.web.illinois.edu%20/static/css/2.de424728.chunk.css",
-    "static/js/2.de0a25d9.chunk.js": "/crowddit411.web.illinois.edu%20/static/js/2.de0a25d9.chunk.js",
-    "static/js/2.de0a25d9.chunk.js.map": "/crowddit411.web.illinois.edu%20/static/js/2.de0a25d9.chunk.js.map",
-    "index.html": "/crowddit411.web.illinois.edu%20/index.html",
-    "precache-manifest.b1bef81d2d4386318c886220f1a809fa.js": "/crowddit411.web.illinois.edu%20/precache-manifest.b1bef81d2d4386318c886220f1a809fa.js",
-    "service-worker.js": "/crowddit411.web.illinois.edu%20/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/crowddit411.web.illinois.edu%20/static/css/2.de424728.chunk.css.map",
-    "static/css/main.df1bad64.chunk.css.map": "/crowddit411.web.illinois.edu%20/static/css/main.df1bad64.chunk.css.map",
-    "static/js/2.de0a25d9.chunk.js.LICENSE.txt": "/crowddit411.web.illinois.edu%20/static/js/2.de0a25d9.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/crowddit411.web.illinois.edu%20/static/media/logo.5d5d9eef.svg"
+    "main.css": "/crowddit_ui/static/css/main.df1bad64.chunk.css",
+    "main.js": "/crowddit_ui/static/js/main.ac24de70.chunk.js",
+    "main.js.map": "/crowddit_ui/static/js/main.ac24de70.chunk.js.map",
+    "runtime-main.js": "/crowddit_ui/static/js/runtime-main.0db240ac.js",
+    "runtime-main.js.map": "/crowddit_ui/static/js/runtime-main.0db240ac.js.map",
+    "static/css/2.de424728.chunk.css": "/crowddit_ui/static/css/2.de424728.chunk.css",
+    "static/js/2.61e90f71.chunk.js": "/crowddit_ui/static/js/2.61e90f71.chunk.js",
+    "static/js/2.61e90f71.chunk.js.map": "/crowddit_ui/static/js/2.61e90f71.chunk.js.map",
+    "index.html": "/crowddit_ui/index.html",
+    "precache-manifest.ee63a91e067a9c4c2feb77f19abb05cf.js": "/crowddit_ui/precache-manifest.ee63a91e067a9c4c2feb77f19abb05cf.js",
+    "service-worker.js": "/crowddit_ui/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/crowddit_ui/static/css/2.de424728.chunk.css.map",
+    "static/css/main.df1bad64.chunk.css.map": "/crowddit_ui/static/css/main.df1bad64.chunk.css.map",
+    "static/js/2.61e90f71.chunk.js.LICENSE.txt": "/crowddit_ui/static/js/2.61e90f71.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/crowddit_ui/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4cf943c5.js",
+    "static/js/runtime-main.0db240ac.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.de0a25d9.chunk.js",
+    "static/js/2.61e90f71.chunk.js",
     "static/css/main.df1bad64.chunk.css",
-    "static/js/main.2d06d397.chunk.js"
+    "static/js/main.ac24de70.chunk.js"
   ]
 }
