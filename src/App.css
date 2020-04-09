@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:700');
+
+App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#login-gradient-box {
+  background-image: linear-gradient(to left bottom, #db353d, #e35338, #ea6d35, #ee8536, #f09c3b);
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px;
+  margin-left: 15px;
+
+}
+
+#login-text {
+  font-weight: bold;
+  letter-spacing: 2px;
+  font-family: sans-serif;
+  padding-top: 3em;
+}
+
+#login-text-button {
+  font-weight: bold;
+  letter-spacing: 2px;
+  font-family: sans-serif;
+  font-size: small;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+.blob {
+  position: absolute;
+  top: 0;
+  left: 0;
+  fill: #023F92;
+  width: 50vmax;
+  z-index: -1;
+  animation: move 10s ease-in-out infinite;
+  transform-origin: 50% 50%;
+}
+
+@keyframes move {
+  0%   { transform: scale(1)   translate(10px, -30px); }
+  38%  { transform: scale(0.8, 1) translate(80vw, 30vh) rotate(160deg); }
+  40%  { transform: scale(0.8, 1) translate(80vw, 30vh) rotate(160deg); }
+  78%  { transform: scale(1.3) translate(0vw, 50vh) rotate(-20deg); }
+  80%  { transform: scale(1.3) translate(0vw, 50vh) rotate(-20deg); }
+  100% { transform: scale(1)   translate(10px, -30px); }
+}
+
+
+
